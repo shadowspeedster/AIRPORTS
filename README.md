@@ -130,7 +130,8 @@ DNS解锁为主
 ##### 注册链接：<br/>
 
 ##### 参考测速图：引用自毒药大佬<br/>
-![114272706-cdbdf300-9a49-11eb-8a2b-5ca9be60e806](https://user-images.githubusercontent.com/83113131/115963645-d71f8300-a552-11eb-95b5-638760f5210f.png)
+![112757512-92203380-901c-11eb-8d4c-f513fa70803a](https://user-images.githubusercontent.com/83113131/115963688-11892000-a553-11eb-9add-fd41325aaa60.png)
+
 
 
 
