@@ -1,4 +1,4 @@
-
+<meta name="google-site-verification" content="yjQJTuEKqM0NdqXnoIS7DIf2f6fXPbRxqxLXgMSu0DA" />
 # 暗影极速榜 
 * **收录SS / SSR /V2RAY /VMESS /TROJAN , 科学上网 /翻墙 /流媒体解锁/加速器   机场** <br/>
 * **各地区，各运营商接入天差地别，频道的测速图不一定代表你所在地区网络的速度**
