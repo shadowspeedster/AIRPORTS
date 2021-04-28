@@ -1,12 +1,3 @@
----
-layout:     post                    # 使用的布局（不需要改）
-title:      **暗影极速榜**            # 标题 
-subtitle:     **收录SS / SSR /V2RAY /VMESS /TROJAN , 科学上网 /翻墙 /流媒体解锁/加速器   机场**    #副标题
-header-img:     #这篇文章标题背景图片
-catalog: true                       # 是否归档
-tags:                               #标签
-    - 东西
-
 
 # 暗影极速榜 
 * **收录SS / SSR /V2RAY /VMESS /TROJAN , 科学上网 /翻墙 /流媒体解锁/加速器   机场** <br/>
