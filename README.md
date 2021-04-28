@@ -1,4 +1,13 @@
-<meta name="google-site-verification" content="yjQJTuEKqM0NdqXnoIS7DIf2f6fXPbRxqxLXgMSu0DA" />
+---
+layout:     post                    # 使用的布局（不需要改）
+title:      **暗影极速榜**            # 标题 
+subtitle:     **收录SS / SSR /V2RAY /VMESS /TROJAN , 科学上网 /翻墙 /流媒体解锁/加速器   机场**    #副标题
+header-img:     #这篇文章标题背景图片
+catalog: true                       # 是否归档
+tags:                               #标签
+    - 东西
+
+
 # 暗影极速榜 
 * **收录SS / SSR /V2RAY /VMESS /TROJAN , 科学上网 /翻墙 /流媒体解锁/加速器   机场** <br/>
 * **各地区，各运营商接入天差地别，频道的测速图不一定代表你所在地区网络的速度**
