@@ -138,7 +138,8 @@ DNS解锁为主
 * Standard Extended (Team Access)：171元/月，每月1000G流量；1698元/年
 
 ##### 注册链接：<br/>
-
+需购买服务才能注册
+[https://immtel.com/cart.php](https://immtel.com/aff.php?aff=156)
 
 
 
@@ -179,7 +180,7 @@ DNS解锁为主
 * 个人增强版：90元/月，900G流量；900元/年，9000G流量
 
 ##### 注册链接：<br/>
-
+[https://xn--iplc-ec5f119w.com/auth/login]()
 
 
 
