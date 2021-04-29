@@ -57,6 +57,7 @@
   * FastLink：IPLC节点
   * 几鸡：IPLC节点
   * MDSS：V4等级的节点。
+  * 跑路云：广港游戏节点，限速
 
 
 ## 6、[UCloud高速通道](https://docs.ucloud.cn/udpn/guide)
