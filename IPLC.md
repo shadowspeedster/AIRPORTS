@@ -87,7 +87,7 @@
   * EXFLUX：全线内网线路
   * Bywave：全线内网线路
   * WaveCloud：全线内网线路，最近被DDOS
-  * 跑路云：IEPL线路
+  * 跑路云：DRL/BGP线路
   * 星梦数据：IEPL线路
   * NyanCAT：被DDOS了大半年，注册谨慎
 
