@@ -42,6 +42,7 @@
   * ImmTelecom：4月开始改为全线AIA
   * Precision Cloud：韩国新加坡加拿大英国等部分节点AIA
   * Blinkload：BUSINESS套餐有香港，日本，美国AIA节点各两个。
+  * FlowerCloud:高级节点过境段为AIA
   * CNIX：香港韩国英国部分节点AIA
   * 海豚湾：IPLC节点为AIA
   * DlerCloud：据闻也要上AIA
