@@ -223,7 +223,8 @@ DNS解锁为主
 * Global Acceleration Max：418元/半年，746/年，每月500G流量；
 
 ##### 注册链接：<br/>
-
+注册续购买套餐
+[https://flowercloud.net/cart.php](https://flowercloud.net/aff.php?aff=133)
 
 
 
