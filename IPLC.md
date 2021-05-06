@@ -51,6 +51,7 @@
   * Foo&Friend :IEPL节点为AIA
   * GUGUEX：部分节点
   * MDSS： V4节点刚换成AIA
+  * prprCloudX：AIA节点
 
 ## 5、[华为云云连接CC](https://www.huaweicloud.com/product/cc.html)
 * 官方简介：云连接（Cloud Connect）能够提供一种快速构建跨区域VPC及云上多VPC与云下多数据中心之间的高速、优质、稳定的网络能力，帮助用户打造一张具有企业级规模和通信能力的全球云上网络。
@@ -61,7 +62,6 @@
   * DlerCloud：1888以上套餐才有，CC节点。
   * FastLink：IPLC节点
   * 几鸡：IPLC节点
-  * MDSS：V4等级的节点。
   * 跑路云：广港游戏节点，限速
 
 
